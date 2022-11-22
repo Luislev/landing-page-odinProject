@@ -1,12 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
 body {
   margin: 0;
   background-color: rgb(255, 255, 255);
+  font-family: "Roboto", sans-serif;
 }
 
 header {
   display: flex;
   min-height: 80px;
-  background-color: rgb(75, 75, 200);
+  background-color: #1f2937;
   justify-content: space-around;
   align-items: center;
   padding: 12px;
