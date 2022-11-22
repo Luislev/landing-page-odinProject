@@ -25,5 +25,10 @@ nav a {
 }
 
 nav a:hover {
-  color: aqua;
+  color: teal;
+}
+
+h1 {
+  color: teal;
+  font-weight: 700;
 }
