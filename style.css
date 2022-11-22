@@ -2,7 +2,7 @@
 
 body {
   margin: 0;
-  background-color: rgb(255, 255, 255);
+  background-color: white;
   font-family: "Roboto", sans-serif;
 }
 
@@ -31,4 +31,14 @@ nav a:hover {
 header h1 {
   color: teal;
   font-weight: 700;
+}
+
+footer {
+  display: flex;
+  min-height: 80px;
+  background-color: #1f2937;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  align-self: flex-end;
 }
