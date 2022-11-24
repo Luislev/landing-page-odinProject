@@ -52,7 +52,7 @@ main {
   flex-direction: column;
 }
 
-.title-section {
+.hero-section {
   background-color: #1f2937;
   display: flex;
   padding: 12px;
@@ -61,21 +61,21 @@ main {
   color: white;
 }
 
-.introduction {
+.hero-text {
   max-width: 400px;
 }
 
-div.introduction,
+div.hero-text,
 div.placeholder {
   padding: 16px;
 }
-.introduction h1 {
+.hero-text h1 {
   font-size: 48px;
   font-weight: 800;
   margin: 0;
 }
 
-.introduction p {
+.hero-text p {
   margin: 0;
 }
 
@@ -83,7 +83,7 @@ div.placeholder {
   width: 400px;
 }
 
-.introduction button {
+.hero-text button {
   padding: 6px 24px;
   background-color: #3882f6;
   border: none;
