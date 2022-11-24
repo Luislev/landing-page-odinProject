@@ -2,8 +2,11 @@
 
 body {
   margin: 0;
+  min-width: 100vh;
   background-color: white;
   font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 header {
@@ -40,5 +43,23 @@ footer {
   justify-content: center;
   align-items: center;
   color: white;
-  align-self: flex-end;
+}
+
+main {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.title-section {
+  background-color: #1f2937;
+  display: flex;
+  padding: 12px;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+}
+
+.title-section h1 {
+  font-size: 64px;
 }
