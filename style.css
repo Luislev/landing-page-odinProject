@@ -61,6 +61,10 @@ main {
   color: white;
 }
 
+.introduction {
+  max-width: 400px;
+}
+
 div.introduction,
 div.placeholder {
   padding: 16px;
@@ -73,4 +77,8 @@ div.placeholder {
 
 .introduction p {
   margin: 0;
+}
+
+.placeholder img {
+  width: 400px;
 }
