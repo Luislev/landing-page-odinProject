@@ -60,6 +60,16 @@ main {
   color: white;
 }
 
+div.introduction,
+div.placeholder {
+  padding: 16px;
+}
 .introduction h1 {
-  font-size: 64px;
+  font-size: 48px;
+  font-weight: 800;
+  margin: 0;
+}
+
+.introduction p {
+  margin: 0;
 }
