@@ -109,4 +109,16 @@ div.placeholder {
 
 .blocks-section img {
   width: 200px;
+  height: 200px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 42px;
+  margin-bottom: 24px;
+}
+
+.info {
+  max-width: 200px;
 }
