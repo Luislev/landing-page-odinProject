@@ -139,3 +139,7 @@ div.placeholder {
   font-style: italic;
   font-weight: 200;
 }
+
+.quote-section h4 {
+  text-align: end;
+}
