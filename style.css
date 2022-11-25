@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,300&display=swap");
 
 body {
   margin: 0;
@@ -121,4 +121,20 @@ div.placeholder {
 
 .info {
   max-width: 200px;
+}
+
+.quote-section {
+  background-color: #e5e7eb;
+}
+
+.quote-section div {
+  max-width: 600px;
+  margin: auto;
+  padding: 32px 0;
+}
+
+.quote-section p {
+  color: #1f2937;
+  font-size: 36px;
+  font-family: "roboto light italic";
 }
