@@ -77,6 +77,7 @@ div.placeholder {
 
 .hero-text p {
   margin: 0;
+  color: #cccccc;
 }
 
 .placeholder img {
@@ -92,7 +93,7 @@ div.placeholder {
   font-weight: 800;
   text-align: center;
   text-decoration: none;
-  border-radius: 4px;
+  border-radius: 8px;
   margin: 12px 0;
 }
 
