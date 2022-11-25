@@ -95,3 +95,7 @@ div.placeholder {
   border-radius: 4px;
   margin: 12px 0;
 }
+
+.blocks-section img {
+  width: 200px;
+}
