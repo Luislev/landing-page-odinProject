@@ -6,4 +6,4 @@ I want this page to be a little different from the examples that odin project, a
 
 ## live preview
 
-website: https://luislev.github.io/landing-page-odinProject/
+website: https://leivadev.github.io/landing-page-odinProject/
